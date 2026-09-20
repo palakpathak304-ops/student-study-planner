@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Student Study Planner</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>📚 Student Study Planner</h1>
+
+        <p>Plan your study and track your progress.</p>
+
+
+        <!-- ADD TASK -->
+
+        <div class="form">
+
+            <input
+                type="text"
+                id="taskInput"
+                placeholder="Enter task"
+            >
+
+            <input
+                type="text"
+                id="subjectInput"
+                placeholder="Enter subject"
+            >
+
+            <select id="priorityInput">
+
+                <option value="High">High</option>
+
+                <option value="Medium">Medium</option>
+
+                <option value="Low">Low</option>
+
+            </select>
+
+            <input
+                type="date"
+                id="dateInput"
+            >
+
+            <button onclick="addTask()">
+                Add Task
+            </button>
+
+        </div>
+
+
+        <!-- DASHBOARD -->
+
+        <div class="dashboard">
+
+            <div class="card">
+
+                <h3>Total Tasks</h3>
+
+                <p id="totalTasks">0</p>
+
+            </div>
+
+
+            <div class="card">
+
+                <h3>Completed</h3>
+
+                <p id="completedTasks">0</p>
+
+            </div>
+
+
+            <div class="card">
+
+                <h3>Pending</h3>
+
+                <p id="pendingTasks">0</p>
+
+            </div>
+
+        </div>
+
+
+        <!-- PROGRESS -->
+
+        <div class="progress-section">
+
+            <h2>Today's Progress</h2>
+
+            <div class="progress-bar">
+
+                <div id="progress"></div>
+
+            </div>
+
+            <p id="progressText">
+                0% completed
+            </p>
+
+        </div>
+
+
+        <!-- SEARCH -->
+
+        <div class="search-section">
+
+            <input
+                type="text"
+                id="searchInput"
+                placeholder="Search tasks..."
+                oninput="displayTasks()"
+            >
+
+
+            <select
+                id="filterInput"
+                onchange="displayTasks()"
+            >
+
+                <option value="All">
+                    All Tasks
+                </option>
+
+                <option value="Pending">
+                    Pending
+                </option>
+
+                <option value="Completed">
+                    Completed
+                </option>
+
+            </select>
+
+        </div>
+
+
+        <!-- TASK LIST -->
+
+        <h2>My Tasks</h2>
+
+        <ul id="taskList"></ul>
+
+    </div>
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
