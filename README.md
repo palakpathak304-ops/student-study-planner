@@ -1,53 +1,84 @@
-📚 StudyFlow — Student Study Planner
+📚 StudyFlow
+Student Study Planner
 
-A simple and interactive study management web application that helps students plan, track, and improve their learning progress.
+A simple and interactive study management web application designed to help students plan, track, and improve their learning progress.
 
 ✨ Features
-Feature	Description
-📊 Dashboard	View tasks, goals, streak, and overall study progress
-📖 Subject Tracking	Track subjects through units and individual topics
-✅ Task Manager	Add, complete, search, and filter study tasks
-🎯 Study Goals	Create and track personal study goals
-⏱️ Pomodoro Timer	Use focused study sessions for better productivity
-📈 Analytics	Monitor task completion and subject progress
-🏆 Achievements	Unlock achievements by completing tasks
-💾 LocalStorage	Automatically save tasks, goals, and topic progress
-🧠 How It Works
+📊 Dashboard
 
-1. Choose a Subject
+View your tasks, goals, study streak, and overall progress in one place.
+
+📖 Subject Tracking
+First Year and Second Year subjects
+Units and individual topics
+Topic completion tracking
+Automatic subject progress percentage
+Unit-wise progress
+✅ Task Management
+Add study tasks
+Set subject and priority
+Add due dates
+Mark tasks as completed
+Search and filter tasks
+🎯 Study Goals
+
+Create personal study goals and track your completion.
+
+⏱️ Pomodoro Timer
+
+Use focused study sessions to improve concentration and productivity.
+
+📈 Analytics
+
+Track completed tasks, completion rate, and subject-wise progress.
+
+🏆 Achievements
+
+Unlock achievements as you complete more study tasks.
+
+💾 LocalStorage
+
+Study data is saved automatically in the browser using LocalStorage.
+
+🧠 How It Works
+01 — Choose a Subject
+
 Select a subject from the Subjects section.
 
-2. Study Unit by Unit
-Each subject is divided into units and topics.
+02 — Study Unit by Unit
 
-3. Mark Topics Complete
-Tick a topic after studying it.
+Each subject contains units and individual topics.
 
-4. Track Progress
-The subject progress percentage updates automatically.
+03 — Mark Topics Complete
 
-5. Manage Daily Tasks
+Tick a topic after completing your study.
+
+04 — Track Progress
+
+The subject's progress percentage updates automatically.
+
+05 — Manage Tasks
+
 Add assignments, revision tasks, coding practice, and other study activities.
 
-6. Set Goals
-Create goals and track your completion.
+06 — Set Goals
 
-7. Stay Focused
-Use the Pomodoro timer for focused study sessions.
+Create and track your personal study goals.
 
-8. Review Analytics
-Check your study activity and completion progress.
+07 — Stay Focused
+
+Use the Pomodoro Timer for focused study sessions.
+
+08 — Analyze Progress
+
+Use Analytics to understand your study activity and completion rate.
 
 🛠️ Tech Stack
-
 Frontend
-
 HTML5
 CSS3
 JavaScript
-
-Storage
-
+Data Storage
 Browser LocalStorage
 📂 Project Structure
 student-study-planner/
@@ -62,33 +93,42 @@ student-study-planner/
 
 No backend or installation is required.
 
-1. Clone or download the repository
-2. Open the project in VS Code
-3. Open index.html in your browser
+Step 1
 
-You can also use Live Server in VS Code for development.
+Clone or download this repository.
 
-🎯 What I Built
+Step 2
 
-This project was created to solve a simple problem:
+Open the project in VS Code.
 
-Students often use different tools for tasks, goals, syllabus tracking, and productivity.
+Step 3
 
-StudyFlow brings these features together in one lightweight web application.
+Open index.html in your browser.
+
+Step 4
+
+For development, you can use Live Server in VS Code.
+
+🎯 Project Purpose
+
+Students often use different tools for managing tasks, goals, syllabus, and productivity.
+
+StudyFlow brings these features together in one simple web application.
+
+Plan. Study. Track. Improve.
 
 🔮 Future Improvements
 🔐 User authentication
 ☁️ Cloud database
 🔔 Study reminders
 🌙 Dark mode
-📱 Mobile-friendly application
+📱 Mobile application
 🤖 AI-based study recommendations
-📊 Advanced study analytics
+📊 Advanced analytics
 👩‍💻 Author
-
 Palak Pathak
 
-B.Tech Computer Science & Artificial Intelligence
+B.Tech Computer Science & Artificial Intelligence Student
 
 📌 Project Type
 
