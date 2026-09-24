@@ -1,135 +1,274 @@
+<div align="center">
+
 📚 StudyFlow
 Student Study Planner
 
-A simple and interactive study management web application designed to help students plan, track, and improve their learning progress.
+Plan your studies • Track your progress • Stay consistent
+
+A modern and interactive web application that helps students manage subjects, topics, tasks, goals, and study sessions in one place.
+
+<br>
+
+HTML5   CSS3   JavaScript   LocalStorage
+
+</div>
+
+🌟 About The Project
+
+StudyFlow is a student-focused productivity web application designed to make academic planning easier.
+
+It combines syllabus tracking, task management, study goals, Pomodoro sessions, analytics, and achievements into one simple dashboard.
+
+Plan → Study → Track → Improve
 
 ✨ Features
-📊 Dashboard
+1. 📊 Dashboard
 
-View your tasks, goals, study streak, and overall progress in one place.
+Get a quick overview of your study activity.
 
-📖 Subject Tracking
-First Year and Second Year subjects
-Units and individual topics
-Topic completion tracking
-Automatic subject progress percentage
+Total tasks
+Completed tasks
+Study goals
+Study streak
+Subject progress
+2. 📚 Subject & Topic Tracking
+
+Track your syllabus unit by unit and topic by topic.
+
+First Year subjects
+Second Year subjects
+Units and topics
+Topic completion
+Automatic progress calculation
 Unit-wise progress
-✅ Task Management
-Add study tasks
-Set subject and priority
-Add due dates
-Mark tasks as completed
-Search and filter tasks
-🎯 Study Goals
+Subject progress reset for repeated study
 
-Create personal study goals and track your completion.
+Example:
 
-⏱️ Pomodoro Timer
+Java Programming
+│
+├── Unit 1
+│   ├── JVM                ✅
+│   ├── JRE                ✅
+│   ├── JDK                ⬜
+│   ├── Java Environment   ⬜
+│   └── Java History       ⬜
+│
+└── Progress: 40%
+3. ✅ Task Management
 
-Use focused study sessions to improve concentration and productivity.
+Convert your study plans into actionable tasks.
 
-📈 Analytics
+Add tasks
+Select subject
+Set priority
+Add due date
+Mark tasks complete
+Search tasks
+Filter tasks
+4. 🎯 Study Goals
 
-Track completed tasks, completion rate, and subject-wise progress.
+Create and manage personal study goals.
 
-🏆 Achievements
+☑ Complete Java Unit 1
+☐ Solve 20 DSA Problems
+☐ Finish DBMS Revision
+☐ Complete Python Assignment
+5. ⏱️ Pomodoro Timer
 
-Unlock achievements as you complete more study tasks.
+Use focused study sessions to improve concentration.
 
-💾 LocalStorage
+Focus → Break → Repeat
 
-Study data is saved automatically in the browser using LocalStorage.
+Features include:
 
-🧠 How It Works
-01 — Choose a Subject
+Start timer
+Pause timer
+Reset timer
+6. 📈 Analytics
 
-Select a subject from the Subjects section.
+Understand your study activity through simple progress insights.
 
-02 — Study Unit by Unit
+Completed tasks
+Completion rate
+Subject-wise progress
+Overall study activity
+7. 🏆 Achievements
 
-Each subject contains units and individual topics.
+Stay motivated by completing tasks and unlocking achievements.
 
-03 — Mark Topics Complete
+🏆 First Task
+🏆 5 Tasks Completed
+🏆 10 Tasks Completed
+🏆 25 Tasks Completed
+8. 💾 LocalStorage
 
-Tick a topic after completing your study.
+StudyFlow automatically saves important information using browser LocalStorage.
 
-04 — Track Progress
+The application stores:
 
-The subject's progress percentage updates automatically.
+Tasks
+Study goals
+Completed topics
+Subject progress
 
-05 — Manage Tasks
+Your data remains available after refreshing the browser.
 
-Add assignments, revision tasks, coding practice, and other study activities.
+🔄 How It Works
+1. 📚 Choose a Subject
 
-06 — Set Goals
+Select the subject you want to study.
 
-Create and track your personal study goals.
+↓
 
-07 — Stay Focused
+2. 📖 Open Units
 
-Use the Pomodoro Timer for focused study sessions.
+Explore the units and individual topics.
 
-08 — Analyze Progress
+↓
 
-Use Analytics to understand your study activity and completion rate.
+3. ✅ Complete Topics
+
+Mark topics as completed after studying them.
+
+↓
+
+4. 📊 Track Progress
+
+Your subject progress automatically updates.
+
+↓
+
+5. 📝 Manage Tasks
+
+Add assignments, revision, coding practice, and other tasks.
+
+↓
+
+6. 🎯 Set Goals
+
+Create study goals and monitor completion.
+
+↓
+
+7. ⏱️ Use Pomodoro
+
+Study using focused sessions.
+
+↓
+
+8. 📈 Check Analytics
+
+Review your study activity and progress.
 
 🛠️ Tech Stack
-Frontend
-HTML5
-CSS3
-JavaScript
-Data Storage
-Browser LocalStorage
+Technology	Purpose
+HTML5	Structure of the application
+CSS3	Styling, layout and responsive design
+JavaScript	Application functionality
+LocalStorage	Saving user progress in the browser
+📸 Project Screenshots
+1. 📊 Dashboard
+
+Add your dashboard screenshot here.
+
+2. 📚 Subjects & Progress
+
+Add your subjects screenshot here.
+
+3. ✅ Tasks
+
+Add your tasks screenshot here.
+
+4. 📈 Analytics
+
+Add your analytics screenshot here.
+
 📂 Project Structure
 student-study-planner/
 │
-├── index.html
-├── style.css
-├── script.js
-├── README.md
+├── 📄 index.html
+├── 🎨 style.css
+├── ⚙️ script.js
+├── 📖 README.md
 │
-└── images/
-🚀 Getting Started
+└── 📁 images/
+🚀 How To Run
+1. Clone the Repository
+git clone YOUR_GITHUB_REPOSITORY_URL
+2. Open the Project
 
-No backend or installation is required.
+Open the project folder in Visual Studio Code.
 
-Step 1
+3. Run the Application
 
-Clone or download this repository.
+Open:
 
-Step 2
+index.html
 
-Open the project in VS Code.
+in your browser.
 
-Step 3
+4. Recommended
 
-Open index.html in your browser.
+Use the Live Server extension in VS Code for development.
 
-Step 4
+🎯 Project Goals
+1. Organization
 
-For development, you can use Live Server in VS Code.
+Keep subjects, topics, tasks and goals together.
 
-🎯 Project Purpose
+2. Progress Tracking
 
-Students often use different tools for managing tasks, goals, syllabus, and productivity.
+Make academic progress visible and measurable.
 
-StudyFlow brings these features together in one simple web application.
+3. Consistency
 
-Plan. Study. Track. Improve.
+Encourage students to study regularly and track their improvement.
 
-🔮 Future Improvements
-🔐 User authentication
-☁️ Cloud database
-🔔 Study reminders
-🌙 Dark mode
-📱 Mobile application
-🤖 AI-based study recommendations
-📊 Advanced analytics
-👩‍💻 Author
+🔮 Future Roadmap
+Completed
+✅ Study Dashboard
+✅ Subject Tracking
+✅ Topic Progress
+✅ Task Management
+✅ Study Goals
+✅ Pomodoro Timer
+✅ Analytics
+✅ Achievements
+✅ LocalStorage
+Planned
+⬜ User Authentication
+⬜ Cloud Database
+⬜ Study Reminders
+⬜ Dark Mode
+⬜ AI Study Recommendations
+⬜ Mobile Application
+💡 Why I Built This
+
+Students often use different tools for managing their syllabus, tasks, goals and study sessions.
+
+I built StudyFlow to bring these activities together into one simple and interactive platform.
+
+The project also helped me practice:
+
+HTML • CSS • JavaScript • DOM Manipulation • LocalStorage • Responsive Design
+
+👩‍💻 Developer
+
+<div align="center">
+
 Palak Pathak
 
 B.Tech Computer Science & Artificial Intelligence Student
 
-📌 Project Type
+Java • Python • DSA • AI/ML • Web Development
 
-Personal Project
+</div>
+
+<div align="center">
+
+⭐ If you find this project useful, consider giving it a star!
+
+Made with 💙 while learning and building
+
+</div>
