@@ -1,19 +1,23 @@
 <div align="center">
 
-📚 StudyFlow
-Student Study Planner
+<h1>📚 StudyFlow</h1>
 
-Plan your studies • Track your progress • Stay consistent
+<h2>Student Study Planner</h2>
 
-A modern and interactive web application that helps students manage subjects, topics, tasks, goals, and study sessions in one place.
+<p><b>Plan your studies • Track your progress • Stay consistent</b></p>
+
+<p>A modern and interactive web application that helps students manage <b>subjects, topics, tasks, goals, and study sessions</b> in one place.</p>
 
 <br>
 
-HTML5   CSS3   JavaScript   LocalStorage
+<code>HTML5</code>  
+<code>CSS3</code>  
+<code>JavaScript</code>  
+<code>LocalStorage</code>
 
 </div>
 
-🌟 About The Project
+<h1>🌟 About The Project</h1>
 
 StudyFlow is a student-focused productivity web application designed to make academic planning easier.
 
@@ -21,8 +25,9 @@ It combines syllabus tracking, task management, study goals, Pomodoro sessions, 
 
 Plan → Study → Track → Improve
 
-✨ Features
-1. 📊 Dashboard
+<h1>✨ Features</h1>
+
+<h2>1. 📊 Dashboard</h2>
 
 Get a quick overview of your study activity.
 
@@ -31,7 +36,8 @@ Completed tasks
 Study goals
 Study streak
 Subject progress
-2. 📚 Subject & Topic Tracking
+
+<h2>2. 📚 Subject & Topic Tracking</h2>
 
 Track your syllabus unit by unit and topic by topic.
 
@@ -43,19 +49,7 @@ Automatic progress calculation
 Unit-wise progress
 Subject progress reset for repeated study
 
-Example:
-
-Java Programming
-│
-├── Unit 1
-│   ├── JVM                ✅
-│   ├── JRE                ✅
-│   ├── JDK                ⬜
-│   ├── Java Environment   ⬜
-│   └── Java History       ⬜
-│
-└── Progress: 40%
-3. ✅ Task Management
+<h2>3. ✅ Task Management</h2>
 
 Convert your study plans into actionable tasks.
 
@@ -66,7 +60,8 @@ Add due date
 Mark tasks complete
 Search tasks
 Filter tasks
-4. 🎯 Study Goals
+
+<h2>4. 🎯 Study Goals</h2>
 
 Create and manage personal study goals.
 
@@ -74,18 +69,18 @@ Create and manage personal study goals.
 ☐ Solve 20 DSA Problems
 ☐ Finish DBMS Revision
 ☐ Complete Python Assignment
-5. ⏱️ Pomodoro Timer
+
+<h2>5. ⏱️ Pomodoro Timer</h2>
 
 Use focused study sessions to improve concentration.
 
 Focus → Break → Repeat
 
-Features include:
-
 Start timer
 Pause timer
 Reset timer
-6. 📈 Analytics
+
+<h2>6. 📈 Analytics</h2>
 
 Understand your study activity through simple progress insights.
 
@@ -93,7 +88,8 @@ Completed tasks
 Completion rate
 Subject-wise progress
 Overall study activity
-7. 🏆 Achievements
+
+<h2>7. 🏆 Achievements</h2>
 
 Stay motivated by completing tasks and unlocking achievements.
 
@@ -101,11 +97,10 @@ Stay motivated by completing tasks and unlocking achievements.
 🏆 5 Tasks Completed
 🏆 10 Tasks Completed
 🏆 25 Tasks Completed
-8. 💾 LocalStorage
+
+<h2>8. 💾 LocalStorage</h2>
 
 StudyFlow automatically saves important information using browser LocalStorage.
-
-The application stores:
 
 Tasks
 Study goals
@@ -114,77 +109,68 @@ Subject progress
 
 Your data remains available after refreshing the browser.
 
-🔄 How It Works
-1. 📚 Choose a Subject
+<h1>🔄 How It Works</h1>
+
+<h2>1. 📚 Choose a Subject</h2>
 
 Select the subject you want to study.
 
-↓
-
-2. 📖 Open Units
+<h2>2. 📖 Open Units</h2>
 
 Explore the units and individual topics.
 
-↓
-
-3. ✅ Complete Topics
+<h2>3. ✅ Complete Topics</h2>
 
 Mark topics as completed after studying them.
 
-↓
-
-4. 📊 Track Progress
+<h2>4. 📊 Track Progress</h2>
 
 Your subject progress automatically updates.
 
-↓
-
-5. 📝 Manage Tasks
+<h2>5. 📝 Manage Tasks</h2>
 
 Add assignments, revision, coding practice, and other tasks.
 
-↓
-
-6. 🎯 Set Goals
+<h2>6. 🎯 Set Goals</h2>
 
 Create study goals and monitor completion.
 
-↓
-
-7. ⏱️ Use Pomodoro
+<h2>7. ⏱️ Use Pomodoro</h2>
 
 Study using focused sessions.
 
-↓
-
-8. 📈 Check Analytics
+<h2>8. 📈 Check Analytics</h2>
 
 Review your study activity and progress.
 
-🛠️ Tech Stack
+<h1>🛠️ Tech Stack</h1>
+
 Technology	Purpose
 HTML5	Structure of the application
 CSS3	Styling, layout and responsive design
 JavaScript	Application functionality
 LocalStorage	Saving user progress in the browser
-📸 Project Screenshots
-1. 📊 Dashboard
+
+<h1>📸 Project Screenshots</h1>
+
+<h2>1. 📊 Dashboard</h2>
 
 Add your dashboard screenshot here.
 
-2. 📚 Subjects & Progress
+<h2>2. 📚 Subjects & Progress</h2>
 
 Add your subjects screenshot here.
 
-3. ✅ Tasks
+<h2>3. ✅ Tasks</h2>
 
 Add your tasks screenshot here.
 
-4. 📈 Analytics
+<h2>4. 📈 Analytics</h2>
 
 Add your analytics screenshot here.
 
-📂 Project Structure
+<h1>📂 Project Structure</h1>
+
 student-study-planner/
 │
 ├── 📄 index.html
@@ -193,40 +179,43 @@ student-study-planner/
 ├── 📖 README.md
 │
 └── 📁 images/
-🚀 How To Run
-1. Clone the Repository
+
+<h1>🚀 How To Run</h1>
+
+<h2>1. Clone the Repository</h2>
+
 git clone YOUR_GITHUB_REPOSITORY_URL
-2. Open the Project
+
+<h2>2. Open the Project</h2>
 
 Open the project folder in Visual Studio Code.
 
-3. Run the Application
+<h2>3. Run the Application</h2>
 
-Open:
+Open index.html in your browser.
 
-index.html
-
-in your browser.
-
-4. Recommended
+<h2>4. Recommended</h2>
 
 Use the Live Server extension in VS Code for development.
 
-🎯 Project Goals
-1. Organization
+<h1>🎯 Project Goals</h1>
+
+<h2>1. Organization</h2>
 
 Keep subjects, topics, tasks and goals together.
 
-2. Progress Tracking
+<h2>2. Progress Tracking</h2>
 
 Make academic progress visible and measurable.
 
-3. Consistency
+<h2>3. Consistency</h2>
 
 Encourage students to study regularly and track their improvement.
 
-🔮 Future Roadmap
-Completed
+<h1>🔮 Future Roadmap</h1>
+
+<h2>Completed</h2>
+
 ✅ Study Dashboard
 ✅ Subject Tracking
 ✅ Topic Progress
@@ -236,14 +225,17 @@ Completed
 ✅ Analytics
 ✅ Achievements
 ✅ LocalStorage
-Planned
+
+<h2>Planned</h2>
+
 ⬜ User Authentication
 ⬜ Cloud Database
 ⬜ Study Reminders
 ⬜ Dark Mode
 ⬜ AI Study Recommendations
 ⬜ Mobile Application
-💡 Why I Built This
+
+<h1>💡 Why I Built This</h1>
 
 Students often use different tools for managing their syllabus, tasks, goals and study sessions.
 
@@ -253,22 +245,24 @@ The project also helped me practice:
 
 HTML • CSS • JavaScript • DOM Manipulation • LocalStorage • Responsive Design
 
-👩‍💻 Developer
-
 <div align="center">
 
-Palak Pathak
+<h1>👩‍💻 Developer</h1>
 
-B.Tech Computer Science & Artificial Intelligence Student
+<h2>Palak Pathak</h2>
+
+<b>B.Tech Computer Science & Artificial Intelligence Student</b>
+
+<br><br>
 
 Java • Python • DSA • AI/ML • Web Development
 
-</div>
+<br><br>
 
-<div align="center">
+⭐ <b>If you find this project useful, consider giving it a star!</b>
 
-⭐ If you find this project useful, consider giving it a star!
+<br>
 
-Made with 💙 while learning and building
+<b>Made with 💙 while learning and building</b>
 
 </div>
