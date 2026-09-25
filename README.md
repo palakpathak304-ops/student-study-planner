@@ -1,152 +1,164 @@
 <div align="center">
 
-📚 STUDENT STUDY PLANNER
-Plan your study. Track your progress. Stay consistent.
+# 📚 STUDYFLOW
+
+## Student Study Planner
+
+### *Plan your study · Manage your tasks · Track your progress*
 
 <br>
 
-A clean and simple web application designed to help students organize their study routine.
+**A simple and interactive study management application for students.**
 
 <br>
 
-HTML5   CSS3   JavaScript   Local Storage
+`HTML5` &nbsp; `CSS3` &nbsp; `JavaScript` &nbsp; `Local Storage`
 
 </div>
 
-✦ ABOUT THE PROJECT
+<br>
 
-Student Study Planner is a web-based productivity application that helps students manage their academic routine from one place.
+<h1>📌 ABOUT THE PROJECT</h1>
 
-It allows students to organize tasks, manage subjects, track study progress, and maintain focused study sessions using a Pomodoro timer.
+**StudyFlow** is a student-focused study planner designed to make daily academic planning simple, organized, and productive.
 
-✦ FEATURES
-📝 Task Management
+It provides a single workspace to manage tasks, organize subjects, track progress, set study goals, and use a Pomodoro timer for focused study sessions.
 
-Add, manage, and organize your study tasks in an easy-to-use interface.
+---
 
-📚 Subject Tracking
+<h1>✨ FEATURES</h1>
 
-Keep your subjects organized and monitor your progress.
+<h2>📝 Task Management</h2>
 
-📊 Progress Dashboard
+Create, manage, complete, and organize your daily study tasks.
 
-Get a quick overview of your study activities and progress.
+<h2>📚 Subject Management</h2>
 
-⏱️ Pomodoro Timer
+Organize your subjects and monitor your academic progress.
 
-Use focused study sessions to maintain a productive study routine.
+<h2>📊 Dashboard</h2>
 
-💾 Local Storage
+Get a quick overview of your tasks, subjects, and study progress.
 
-Store your study information directly in the browser.
+<h2>⏱️ Pomodoro Timer</h2>
 
-🔎 Search & Filter
+Use focused study sessions and breaks to maintain concentration.
 
-Quickly find and manage your study tasks.
+<h2>🎯 Study Goals</h2>
 
-✦ PROJECT PREVIEW
-🏠 Welcome
+Set academic goals and stay focused on your targets.
+
+<h2>📈 Analytics</h2>
+
+Monitor your study activity and progress.
+
+<h2>💾 Local Storage</h2>
+
+Keep your study information saved directly in your browser.
+
+<h2>🌙 Dark Mode</h2>
+
+Switch to dark mode for a comfortable study experience.
+
+---
+
+<h1>🖥️ PROJECT PREVIEW</h1>
+
+<h2>🏠 Welcome</h2>
 
 <div align="center">
 
-<img src="images/welcome.png" width="850">
+<img src="images/welcome.png" width="900">
 
 </div>
 
-📊 Dashboard
+<br>
+
+<h2>📊 Dashboard</h2>
 
 <div align="center">
 
-<img src="images/dashboard.png" width="850">
+<img src="images/dashboard.png" width="900">
 
 </div>
 
-📚 Subjects
+<br>
+
+<h2>📚 Subjects</h2>
 
 <div align="center">
 
-<img src="images/subjects.png" width="850">
+<img src="images/subjects.png" width="900">
 
 </div>
 
-📝 Tasks
+<br>
+
+<h2>📝 Tasks</h2>
 
 <div align="center">
 
-<img src="images/tasks.png" width="850">
+<img src="images/tasks.png" width="900">
 
 </div>
 
-⏱️ Pomodoro
+<br>
+
+<h2>⏱️ Pomodoro</h2>
 
 <div align="center">
 
-<img src="images/pomodoro.png" width="850">
+<img src="images/pomodoro.png" width="900">
 
 </div>
 
-✦ TECHNOLOGIES USED
-Technology	Used For
-HTML5	Website structure
-CSS3	Design and styling
-JavaScript	Functionality and interaction
-Local Storage	Saving study data
-✦ HOW IT WORKS
-        STUDENT
-           │
-           ▼
-    ┌───────────────┐
-    │  Add Subjects │
-    └───────┬───────┘
-            │
-            ▼
-    ┌───────────────┐
-    │  Create Tasks │
-    └───────┬───────┘
-            │
-            ▼
-    ┌───────────────┐
-    │  Study & Focus│
-    │   Pomodoro    │
-    └───────┬───────┘
-            │
-            ▼
-    ┌───────────────┐
-    │ Track Progress│
-    └───────────────┘
-✦ PROJECT STRUCTURE
-Student-Study-Planner/
+---
+
+<h1>🛠️ TECHNOLOGIES USED</h1>
+
+<table>
+<tr>
+<th>Technology</th>
+<th>Purpose</th>
+</tr>
+
+<tr>
+<td><b>HTML5</b></td>
+<td>Web page structure</td>
+</tr>
+
+<tr>
+<td><b>CSS3</b></td>
+<td>Styling and user interface</td>
+</tr>
+
+<tr>
+<td><b>JavaScript</b></td>
+<td>Application logic and interactions</td>
+</tr>
+
+<tr>
+<td><b>Local Storage</b></td>
+<td>Browser-based data persistence</td>
+</tr>
+
+</table>
+
+---
+
+<h1>📂 PROJECT STRUCTURE</h1>
+
+```text
+student-study-planner/
 │
+├── README.md
 ├── index.html
 ├── style.css
 ├── script.js
 │
-├── images/
-│   ├── welcome.png
-│   ├── dashboard.png
-│   ├── subjects.png
-│   ├── tasks.png
-│   └── pomodoro.png
-│
-└── README.md
-✦ FUTURE IMPROVEMENTS
-🌙 Dark Mode
-🔔 Study Reminders
-📅 Calendar Integration
-📈 Advanced Analytics
-☁️ Cloud Data Storage
-👤 User Authentication
-📱 Improved Mobile Experience
-
-<div align="center">
-
-✦ DEVELOPED BY
-Palak Pathak
-
-B.Tech CS-AI Student
-
-<br>
-
-Built with HTML, CSS & JavaScript.
-
-</div>
+└── images/
+    ├── welcome.png
+    ├── dashboard.png
+    ├── subjects.png
+    ├── tasks.png
+    └── pomodoro.png
