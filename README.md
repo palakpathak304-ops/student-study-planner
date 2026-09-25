@@ -1,71 +1,50 @@
 <div align="center">
 
 📚 STUDENT STUDY PLANNER
-Plan • Focus • Track • Improve
+Plan your study. Track your progress. Stay consistent.
 
-<p> <strong>A simple and interactive study management platform for students.</strong> </p>
+<br>
 
-<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/LocalStorage-4285F4?style=for-the-badge"> </p>
+A clean and simple web application designed to help students organize their study routine.
+
+<br>
+
+HTML5   CSS3   JavaScript   Local Storage
 
 </div>
 
-🌟 About The Project
+✦ ABOUT THE PROJECT
 
-Student Study Planner is a beginner-friendly web application created to help students organize their academic activities in one place.
+Student Study Planner is a web-based productivity application that helps students manage their academic routine from one place.
 
-It provides a clean dashboard where students can manage tasks, organize subjects, track progress, and use a Pomodoro timer for focused study sessions.
+It allows students to organize tasks, manage subjects, track study progress, and maintain focused study sessions using a Pomodoro timer.
 
-✨ Key Features
-
-<table> <tr> <td width="50%">
-
+✦ FEATURES
 📝 Task Management
 
-Create and manage study tasks easily.
-
-</td>
-
-<td width="50%">
-
-📊 Progress Dashboard
-
-Track your overall study progress visually.
-
-</td> </tr>
-
-<tr> <td>
+Add, manage, and organize your study tasks in an easy-to-use interface.
 
 📚 Subject Tracking
 
-Organize subjects and monitor individual progress.
+Keep your subjects organized and monitor your progress.
 
-</td>
+📊 Progress Dashboard
 
-<td>
+Get a quick overview of your study activities and progress.
 
 ⏱️ Pomodoro Timer
 
-Use focused study sessions with dedicated breaks.
-
-</td> </tr>
-
-<tr> <td>
+Use focused study sessions to maintain a productive study routine.
 
 💾 Local Storage
 
-Your study data can remain saved in the browser.
-
-</td>
-
-<td>
+Store your study information directly in the browser.
 
 🔎 Search & Filter
 
-Quickly find and organize your study tasks.
+Quickly find and manage your study tasks.
 
-</td> </tr> </table>
-
-🖥️ PROJECT PREVIEW
+✦ PROJECT PREVIEW
 🏠 Welcome
 
 <div align="center">
@@ -106,19 +85,36 @@ Quickly find and organize your study tasks.
 
 </div>
 
-🛠️ TECHNOLOGIES
-
-<div align="center">
-
-Technology	Purpose
-🌐 HTML5	Structure of the application
-🎨 CSS3	Styling and responsive interface
-⚡ JavaScript	Application logic and interactions
-💾 Local Storage	Saving user data
-
-</div>
-
-📂 PROJECT STRUCTURE
+✦ TECHNOLOGIES USED
+Technology	Used For
+HTML5	Website structure
+CSS3	Design and styling
+JavaScript	Functionality and interaction
+Local Storage	Saving study data
+✦ HOW IT WORKS
+        STUDENT
+           │
+           ▼
+    ┌───────────────┐
+    │  Add Subjects │
+    └───────┬───────┘
+            │
+            ▼
+    ┌───────────────┐
+    │  Create Tasks │
+    └───────┬───────┘
+            │
+            ▼
+    ┌───────────────┐
+    │  Study & Focus│
+    │   Pomodoro    │
+    └───────┬───────┘
+            │
+            ▼
+    ┌───────────────┐
+    │ Track Progress│
+    └───────────────┘
+✦ PROJECT STRUCTURE
 Student-Study-Planner/
 │
 ├── index.html
@@ -133,37 +129,24 @@ Student-Study-Planner/
 │   └── pomodoro.png
 │
 └── README.md
-🎯 PROJECT GOAL
-
-The goal of this project is to provide students with a simple digital workspace where they can:
-
-📚 Organize Subjects
-        ↓
-📝 Manage Tasks
-        ↓
-⏱️ Focus with Pomodoro
-        ↓
-📊 Track Progress
-        ↓
-🎯 Improve Study Routine
-🚀 FUTURE IMPROVEMENTS
-📈 Advanced study analytics
-🔔 Task notifications
-🌙 Dark mode
-📱 Better mobile responsiveness
-☁️ Cloud data synchronization
-👤 User authentication
-📅 Calendar integration
+✦ FUTURE IMPROVEMENTS
+🌙 Dark Mode
+🔔 Study Reminders
+📅 Calendar Integration
+📈 Advanced Analytics
+☁️ Cloud Data Storage
+👤 User Authentication
+📱 Improved Mobile Experience
 
 <div align="center">
 
-👩‍💻 DEVELOPED BY
+✦ DEVELOPED BY
 Palak Pathak
 
 B.Tech CS-AI Student
 
 <br>
 
-⭐ If you like this project, consider giving it a star! ⭐
+Built with HTML, CSS & JavaScript.
 
 </div>
