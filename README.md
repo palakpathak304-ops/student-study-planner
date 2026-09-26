@@ -151,20 +151,3 @@ Switch to dark mode for a comfortable study experience.
 </table>
 
 ---
-
-<h1>📂 PROJECT STRUCTURE</h1>
-
-```text
-student-study-planner/
-│
-├── README.md
-├── index.html
-├── style.css
-├── script.js
-│
-└── images/
-    ├── welcome.png
-    ├── dashboard.png
-    ├── subjects.png
-    ├── tasks.png
-    └── pomodoro.png
