@@ -88,7 +88,8 @@ Switch to dark mode for a comfortable study experience.
 
 <div align="center">
 
-<img src="images/subjects.png" width="900">
+<img src="<img width="1872" height="1010" alt="dashboard" src="https://github.com/user-attachments/assets/6b91f5d9-4fe2-4c5e-bb9f-31f59582dc00" />
+" width="900">
 
 </div>
 
