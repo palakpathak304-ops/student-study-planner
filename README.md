@@ -68,8 +68,8 @@ Switch to dark mode for a comfortable study experience.
 
 <div align="center">
 
-"<img width="1890" height="1030" alt="welcome" src="https://github.com/user-attachments/assets/50b1897d-f8d7-470a-bf91-0c53ea5d6636" />
-" 
+<img width="1890" height="1030" alt="welcome" src="https://github.com/user-attachments/assets/50b1897d-f8d7-470a-bf91-0c53ea5d6636" />
+
 
 </div>
 
@@ -79,8 +79,8 @@ Switch to dark mode for a comfortable study experience.
 
 <div align="center">
 
-"<img width="1872" height="1010" alt="dashboard" src="https://github.com/user-attachments/assets/72bb6ef7-1028-459c-bfc7-2125aa20f94b" />
-"
+<img width="1872" height="1010" alt="dashboard" src="https://github.com/user-attachments/assets/72bb6ef7-1028-459c-bfc7-2125aa20f94b" />
+
 
 </div>
 
@@ -90,7 +90,7 @@ Switch to dark mode for a comfortable study experience.
 
 <div align="center">
 
-"<img width="1861" height="1016" alt="subjects" src="https://github.com/user-attachments/assets/2c4cab0b-9a25-4411-b696-b0781c054a1f" />
+<img width="1861" height="1016" alt="subjects" src="https://github.com/user-attachments/assets/2c4cab0b-9a25-4411-b696-b0781c054a1f" />
 
 
 
@@ -102,8 +102,8 @@ Switch to dark mode for a comfortable study experience.
 
 <div align="center">
 
-"<img width="1893" height="992" alt="tasks" src="https://github.com/user-attachments/assets/c3dd749e-8996-4a26-a988-dd27a859155a" />
-" 
+<img width="1893" height="992" alt="tasks" src="https://github.com/user-attachments/assets/c3dd749e-8996-4a26-a988-dd27a859155a" />
+
 
 </div>
 
@@ -113,7 +113,7 @@ Switch to dark mode for a comfortable study experience.
 
 <div align="center">
 
-"<img width="1576" height="1006" alt="pomodoro" src="https://github.com/user-attachments/assets/de6c5c21-9692-4206-b287-b0c06916cd6d" />
+<img width="1576" height="1006" alt="pomodoro" src="https://github.com/user-attachments/assets/de6c5c21-9692-4206-b287-b0c06916cd6d" />
 
 
 </div>
